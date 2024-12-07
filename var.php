@@ -1,4 +1,5 @@
 <?php
+// sinau var.php
 
 echo "Hello World! <br>";
 
